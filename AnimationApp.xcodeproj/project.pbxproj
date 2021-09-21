@@ -14,6 +14,7 @@
 		10E4213826F9FC0400DE278A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 10E4213726F9FC0400DE278A /* Assets.xcassets */; };
 		10E4213B26F9FC0400DE278A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 10E4213926F9FC0400DE278A /* LaunchScreen.storyboard */; };
 		10E4214326FA015B00DE278A /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 10E4214226FA015B00DE278A /* .gitignore */; };
+		10E4214526FA058700DE278A /* Extension + UIButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10E4214426FA058700DE278A /* Extension + UIButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		10E4213A26F9FC0400DE278A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		10E4213C26F9FC0400DE278A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		10E4214226FA015B00DE278A /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
+		10E4214426FA058700DE278A /* Extension + UIButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Extension + UIButton.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				10E4213726F9FC0400DE278A /* Assets.xcassets */,
 				10E4213926F9FC0400DE278A /* LaunchScreen.storyboard */,
 				10E4213C26F9FC0400DE278A /* Info.plist */,
+				10E4214426FA058700DE278A /* Extension + UIButton.swift */,
 			);
 			path = AnimationApp;
 			sourceTree = "<group>";
@@ -145,6 +148,7 @@
 				10E4213326F9FC0400DE278A /* ViewController.swift in Sources */,
 				10E4212F26F9FC0400DE278A /* AppDelegate.swift in Sources */,
 				10E4213126F9FC0400DE278A /* SceneDelegate.swift in Sources */,
+				10E4214526FA058700DE278A /* Extension + UIButton.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
